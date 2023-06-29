@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86420fc9.css",
+    "main.js": "/static/js/main.b5c90f3e.js",
+    "static/media/get_fit.jpg": "/static/media/get_fit.22eb38b8dd683d40a7aa.jpg",
+    "static/media/auctionapp.jpg": "/static/media/auctionapp.15537f76a47517044bdb.jpg",
+    "static/media/financeapp.jpg": "/static/media/financeapp.2469d70badb4610fafc2.jpg",
+    "static/media/Meronipedia.png": "/static/media/Meronipedia.eab7c4acc44ac398b139.png",
+    "static/media/airlineservice.jpg": "/static/media/airlineservice.0e81d2188b37b30118f5.jpg",
+    "static/media/googleclone.jpg": "/static/media/googleclone.7ff34f8c65d94d79a4b6.jpg",
+    "static/media/mypic4.png": "/static/media/mypic4.da1002652afa388bb397.png",
+    "static/media/Meron's_CV.pdf": "/static/media/Meron's_CV.d6b9f7312149ae382507.pdf",
+    "static/media/person_image1.jpg": "/static/media/person_image1.b859e973cabf4f975c0f.jpg",
+    "static/media/Me.png": "/static/media/Me.1eacd3f2cf800e54a558.png",
+    "static/media/snakegame.jpg": "/static/media/snakegame.d01e49030e387e34e5b2.jpg",
+    "index.html": "/index.html",
+    "main.86420fc9.css.map": "/static/css/main.86420fc9.css.map",
+    "main.b5c90f3e.js.map": "/static/js/main.b5c90f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86420fc9.css",
+    "static/js/main.b5c90f3e.js"
+  ]
+}
